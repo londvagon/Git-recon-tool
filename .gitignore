@@ -1,0 +1,9 @@
+recon_output/
+*.txt
+!README.md
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
